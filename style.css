@@ -296,7 +296,7 @@ body .projects-container .project .project-skills {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 30%;
+  width: 100%;
   margin-top: -30px;
 }
 body .projects-container .project .project-skills p {
@@ -1211,7 +1211,7 @@ body footer .social-links a:hover {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 20%;
+    width: 60%;
     margin-top: -30px;
   }
   body .projects-container .project .project-skills p {
