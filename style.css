@@ -298,6 +298,7 @@ body .projects-container .project .project-skills {
   justify-content: space-between;
   width: 100%;
   margin-top: -30px;
+  text-align: center;
 }
 body .projects-container .project .project-skills p {
   color: #D9D9D9;
@@ -749,7 +750,7 @@ body footer .social-links a:hover {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 30%;
+    width: 100%;
     margin-top: -30px;
   }
   body .projects-container .project .project-skills p {
@@ -1082,7 +1083,6 @@ body footer .social-links a:hover {
   body .skills-container .skill {
     text-align: center;
     margin-bottom: 0;
-    cursor: pointer;
   }
   body .skills-container .skill h1 {
     color: white;
