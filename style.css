@@ -313,6 +313,7 @@ body footer {
   overflow: hidden;
   -webkit-animation: fade-up 1000ms 1000ms backwards;
           animation: fade-up 1000ms 1000ms backwards;
+  margin-top: 50px;
 }
 body footer img {
   position: absolute;
@@ -766,6 +767,7 @@ body footer .social-links a:hover {
     overflow: hidden;
     -webkit-animation: fade-up 1000ms 1000ms backwards;
             animation: fade-up 1000ms 1000ms backwards;
+    margin-top: 50px;
   }
   body footer img {
     position: absolute;
@@ -1227,6 +1229,7 @@ body footer .social-links a:hover {
     overflow: hidden;
     -webkit-animation: fade-up 1000ms 1000ms backwards;
             animation: fade-up 1000ms 1000ms backwards;
+    margin-top: 50px;
   }
   body footer img {
     position: absolute;
